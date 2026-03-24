@@ -1,23 +1,22 @@
-# Week {Number}: {Project Title}
+# Week 02: CSS Mastery
 
 ## Author
-- **Name:** Your Full Name
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **Name:** Mark  Mwangi
+- **GitHub:** [@mwas12345spec](https://github.com/mwas12345spec)
+- **Date:**   03 /23/2026
 
 ## Project Description
-Brief description of what you built and why.
+ this projects  initiate s my abilities to do projects
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
-- (list all technologies)
+
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature :  contact information
+- Feature: about my self
+- Feature : my skills
 
 ## How to Run
 1. Clone this repository
@@ -26,13 +25,12 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+ i learned the importance of having   a good   portfolio
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+ the problems i encounter are    the pictures  of projects on project seecion   are not appearing as images
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https:// https://mwas12345spec.github.io/iyf-s10-week-2-your-mwas12345spec/)
