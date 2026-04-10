@@ -32,6 +32,6 @@
 
 
 
-## Live Demo (if deployed)
+## Live Demo 
 [View Live Demo]( https://mwas12345spec.github.io/iyf-s10-week-02-mwas12345spec/)
 
